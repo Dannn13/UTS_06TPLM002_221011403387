@@ -1,4 +1,3 @@
 # ridwan_weather_uts
 
-##The result
-(./Screenshoot/hasil.png)
+![Hasil Screenshoot](./Screenshoot/hasil.png)
